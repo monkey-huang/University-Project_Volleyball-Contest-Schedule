@@ -1,0 +1,184 @@
+c:\users\lab415\documents\visual studio 2012\Projects\專題\專題\bin\專題.dll
+c:\users\lab415\documents\visual studio 2012\Projects\專題\專題\bin\專題.pdb
+c:\users\lab415\documents\visual studio 2012\Projects\專題\專題\obj\Debug\專題.dll
+c:\users\lab415\documents\visual studio 2012\Projects\專題\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題\專題\obj\Debug\專題.pdb
+D:\下載區\專題\專題\bin\專題.dll
+D:\下載區\專題\專題\bin\專題.pdb
+D:\下載區\專題\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+D:\下載區\專題\專題\obj\Debug\專題.dll
+D:\下載區\專題\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1018\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1018\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1018\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1018\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1018\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1019\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1019\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1019\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1019\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1019\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1020\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1020\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1020\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1020\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1020\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1021\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1021\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1021\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1021\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1021\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1021-2\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1021-2\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1021-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1021-2\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1021-2\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1022\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1022\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1022\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1022\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1022\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1023\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1023\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1023\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1023\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1023\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1024\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1024\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1024\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024-2\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024-2\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024-2\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1024-2\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-1\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-1\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-1\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-1\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-1\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-2\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-2\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-2\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 1025-2\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-3\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-3\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-3\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-3\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 1025-3\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 最終階段\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 最終階段\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 最終階段\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 最終階段\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 最終階段\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-2\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-2\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-2\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-2\專題\obj\Debug\專題.pdb
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-8\專題\bin\專題.dll
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-8\專題\bin\專題.pdb
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.dll
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-8\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-8\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-8\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-10\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-10\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-10\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-10\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-10\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-13\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-13\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-13\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-13\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-13\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-14\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-14\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-14\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-14\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-14\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-15\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-15\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-15\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-15\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-15\專題\obj\Debug\專題.pdb
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-15-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-15-2\專題\obj\Debug\專題.dll
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-15-2\專題\bin\專題.dll
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-15-2\專題\bin\專題.pdb
+C:\Users\LAB405\Desktop\專題_永遠只動這個 11-15-2\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-16\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-16\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-16\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-16\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-16\專題\obj\Debug\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-17\專題\bin\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-17\專題\bin\專題.pdb
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-17\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-17\專題\obj\Debug\專題.dll
+C:\Users\豪哥\Desktop\專題_永遠只動這個 11-17\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-17-2\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-17-2\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-17-2\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-17-2\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-17-2\專題\obj\Debug\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-21\專題\bin\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-21\專題\bin\專題.pdb
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-21\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-21\專題\obj\Debug\專題.dll
+C:\Users\LAB415\Desktop\專題_永遠只動這個 11-21\專題\obj\Debug\專題.pdb
+C:\Users\Wayne\Desktop\專題_永遠只動這個 OVER\專題\bin\專題.dll
+C:\Users\Wayne\Desktop\專題_永遠只動這個 OVER\專題\bin\專題.pdb
+C:\Users\Wayne\Desktop\專題_永遠只動這個 OVER\專題\obj\Debug\專題.csprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\專題_永遠只動這個 OVER\專題\obj\Debug\專題.dll
+C:\Users\Wayne\Desktop\專題_永遠只動這個 OVER\專題\obj\Debug\專題.pdb

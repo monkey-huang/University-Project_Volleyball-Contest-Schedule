@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{43046E71-F786-4634-81FE-04F3ADF31397}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>專題</RootNamespace>
+    <AssemblyName>專題</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="arrandouble\eight.aspx" />
+    <Content Include="arrandouble\Eighteenth.aspx" />
+    <Content Include="arrandouble\eleven.aspx" />
+    <Content Include="arrandouble\fifteen.aspx" />
+    <Content Include="arrandouble\fourteen.aspx" />
+    <Content Include="arrandouble\nine.aspx" />
+    <Content Include="arrandouble\Nineteenth.aspx" />
+    <Content Include="arrandouble\Seventeen.aspx" />
+    <Content Include="arrandouble\sixteen.aspx" />
+    <Content Include="arrandouble\ten.aspx" />
+    <Content Include="arrandouble\thirteen.aspx" />
+    <Content Include="arrandouble\thirty-one.aspx" />
+    <Content Include="arrandouble\Thirty-two.aspx" />
+    <Content Include="arrandouble\Thirty.aspx" />
+    <Content Include="arrandouble\twelve.aspx" />
+    <Content Include="arrandouble\twenty five.aspx" />
+    <Content Include="arrandouble\twenty four.aspx" />
+    <Content Include="arrandouble\twenty one.aspx" />
+    <Content Include="arrandouble\twenty two.aspx" />
+    <Content Include="arrandouble\Twenty-eight.aspx" />
+    <Content Include="arrandouble\Twenty-nine.aspx" />
+    <Content Include="arrandouble\Twenty-seven.aspx" />
+    <Content Include="arrandouble\Twenty-six.aspx" />
+    <Content Include="arrandouble\twenty-three.aspx" />
+    <Content Include="arrandouble\twenty.aspx" />
+    <Content Include="arransingle\Eighteenth.aspx" />
+    <Content Include="arransingle\fifteen.aspx" />
+    <Content Include="arransingle\fourteen.aspx" />
+    <Content Include="arransingle\Nineteenth.aspx" />
+    <Content Include="arransingle\Seventeen.aspx" />
+    <Content Include="arransingle\thirteen.aspx" />
+    <Content Include="arransingle\Thirty-onesingle.aspx" />
+    <Content Include="arransingle\Thirtysingle.aspx" />
+    <Content Include="arransingle\Twenty-eight.aspx" />
+    <Content Include="arransingle\Twenty-fivesingle.aspx" />
+    <Content Include="arransingle\Twenty-nine.aspx" />
+    <Content Include="arransingle\twenty-one.aspx" />
+    <Content Include="arransingle\Twenty-sevensingle.aspx" />
+    <Content Include="arransingle\Twenty-sixsingle.aspx" />
+    <Content Include="arransingle\twenty-three.aspx" />
+    <Content Include="arransingle\twenty-two.aspx" />
+    <Content Include="arransingle\twenty.aspx" />
+    <Content Include="game.aspx" />
+    <Content Include="img\225PX大大普通.jpg" />
+    <Content Include="img\265PX大大普通.jpg" />
+    <Content Include="img\透明1-1.png" />
+    <Content Include="img\透明1.png" />
+    <Content Include="movie.aspx" />
+    <Content Include="vd\1.avi" />
+    <Content Include="vd\1.mp4" />
+    <Content Include="vd\Produce.wmv" />
+    <Content Include="web\img\DSC02510.JPG" />
+    <Content Include="web\img\DSC02511.JPG" />
+    <Content Include="沒啥用的\Admin.aspx" />
+    <Content Include="沒啥用的\Announcement.aspx" />
+    <Content Include="App_Data\Database1.mdf" />
+    <Content Include="App_Data\Database1_log.ldf">
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="Arrangement.aspx" />
+    <Content Include="arransingle\eightsingle.aspx" />
+    <Content Include="arransingle\elevensingle.aspx" />
+    <Content Include="arransingle\ninesingle.aspx" />
+    <Content Include="arransingle\sixteen.aspx" />
+    <Content Include="arransingle\tensingle.aspx" />
+    <Content Include="arransingle\twelvesingle.aspx" />
+    <Content Include="arransingle\twenty foursingle.aspx" />
+    <Content Include="arransingle\Thirty-twosingle.aspx" />
+    <Content Include="bootstrap\css\bootstrap-theme.css" />
+    <Content Include="bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="bootstrap\css\bootstrap.css" />
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap\js\bootstrap.js" />
+    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="bootstrap\js\npm.js" />
+    <Content Include="img\1.jpg" />
+    <Content Include="img\140PX大普通.jpg" />
+    <Content Include="img\140PX大普通LR.jpg" />
+    <Content Include="img\140PX大普通RR.jpg" />
+    <Content Include="img\155PX大普通.jpg" />
+    <Content Include="img\160PX大普通.jpg" />
+    <Content Include="img\160PX大普通LR.jpg" />
+    <Content Include="img\160PX大普通RR.jpg" />
+    <Content Include="img\165PX大普通.jpg" />
+    <Content Include="img\170PX大普通.jpg" />
+    <Content Include="img\180PX大普通.jpg" />
+    <Content Include="img\180PX大普通LR.jpg" />
+    <Content Include="img\180PX大普通RR.jpg" />
+    <Content Include="img\185PX大普通.jpg" />
+    <Content Include="img\2.jpg" />
+    <Content Include="img\255PX大大普通.jpg" />
+    <Content Include="img\255PX大大普通LR.jpg" />
+    <Content Include="img\255PX大大普通RR.jpg" />
+    <Content Include="img\3.JPG" />
+    <Content Include="img\355PX大大普通.jpg" />
+    <Content Include="img\355PX大大普通LR.jpg" />
+    <Content Include="img\355PX大大普通RR.jpg" />
+    <Content Include="img\484PX大大普通.jpg" />
+    <Content Include="img\484PX大大普通LR.jpg" />
+    <Content Include="img\484PX大大普通RR.jpg" />
+    <Content Include="img\大大大普通.jpg" />
+    <Content Include="img\大大大普通LR.jpg" />
+    <Content Include="img\大大大普通RR.jpg" />
+    <Content Include="img\大大普通.jpg" />
+    <Content Include="img\大大普通LR.jpg" />
+    <Content Include="img\大大普通RR.jpg" />
+    <Content Include="img\大大普通直線.jpg" />
+    <Content Include="img\大普通.jpg" />
+    <Content Include="img\大普通LR.jpg" />
+    <Content Include="img\大普通RR.jpg" />
+    <Content Include="img\普通.jpg" />
+    <Content Include="img\普通LR.jpg" />
+    <Content Include="img\普通RR.jpg" />
+    <Content Include="img\直線.jpg" />
+    <Content Include="img\直線R.jpg" />
+    <Content Include="img\高170普通..jpg" />
+    <Content Include="img\高170普通LR..jpg" />
+    <Content Include="img\高170普通RR..jpg" />
+    <Content Include="index.aspx" />
+    <Content Include="沒啥用的\Live.aspx" />
+    <Content Include="沒啥用的\Restration.aspx" />
+    <Content Include="Scoring.aspx" />
+    <Content Include="沒啥用的\Secure.aspx" />
+    <Content Include="Sign in.aspx" />
+    <Content Include="Sign up.aspx" />
+    <Content Include="Team Information.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="web\css.css" />
+    <Content Include="web\css\bootstrap.css" />
+    <Content Include="web\css\bootstrap.min.css" />
+    <Content Include="web\css\landing-page.css" />
+    <Content Include="web\font-awesome\css\font-awesome.css" />
+    <Content Include="web\font-awesome\css\font-awesome.min.css" />
+    <Content Include="web\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="web\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="web\img\66.jpg" />
+    <Content Include="web\img\77.jpg" />
+    <Content Include="web\img\banner-bg.jpg" />
+    <Content Include="web\img\bg.jpg" />
+    <Content Include="web\img\dog.png" />
+    <Content Include="web\img\intro-bg.jpg" />
+    <Content Include="web\img\ipad.png" />
+    <Content Include="web\img\phones.png" />
+    <Content Include="web\index.html" />
+    <Content Include="web\js\bootstrap.js" />
+    <Content Include="web\js\bootstrap.min.js" />
+    <Content Include="web\js\jquery.js" />
+    <Content Include="沒啥用的\test.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="arrandouble\eight.aspx.cs">
+      <DependentUpon>eight.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\eight.aspx.designer.cs">
+      <DependentUpon>eight.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Eighteenth.aspx.cs">
+      <DependentUpon>Eighteenth.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Eighteenth.aspx.designer.cs">
+      <DependentUpon>Eighteenth.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\eleven.aspx.cs">
+      <DependentUpon>eleven.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\eleven.aspx.designer.cs">
+      <DependentUpon>eleven.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\fifteen.aspx.cs">
+      <DependentUpon>fifteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\fifteen.aspx.designer.cs">
+      <DependentUpon>fifteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\fourteen.aspx.cs">
+      <DependentUpon>fourteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\fourteen.aspx.designer.cs">
+      <DependentUpon>fourteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\nine.aspx.cs">
+      <DependentUpon>nine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\nine.aspx.designer.cs">
+      <DependentUpon>nine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Nineteenth.aspx.cs">
+      <DependentUpon>Nineteenth.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Nineteenth.aspx.designer.cs">
+      <DependentUpon>Nineteenth.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Seventeen.aspx.cs">
+      <DependentUpon>Seventeen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Seventeen.aspx.designer.cs">
+      <DependentUpon>Seventeen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\sixteen.aspx.cs">
+      <DependentUpon>sixteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\sixteen.aspx.designer.cs">
+      <DependentUpon>sixteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\ten.aspx.cs">
+      <DependentUpon>ten.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\ten.aspx.designer.cs">
+      <DependentUpon>ten.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\thirteen.aspx.cs">
+      <DependentUpon>thirteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\thirteen.aspx.designer.cs">
+      <DependentUpon>thirteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\thirty-one.aspx.cs">
+      <DependentUpon>thirty-one.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\thirty-one.aspx.designer.cs">
+      <DependentUpon>thirty-one.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Thirty-two.aspx.cs">
+      <DependentUpon>Thirty-two.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Thirty-two.aspx.designer.cs">
+      <DependentUpon>Thirty-two.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Thirty.aspx.cs">
+      <DependentUpon>Thirty.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Thirty.aspx.designer.cs">
+      <DependentUpon>Thirty.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twelve.aspx.cs">
+      <DependentUpon>twelve.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twelve.aspx.designer.cs">
+      <DependentUpon>twelve.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty five.aspx.cs">
+      <DependentUpon>twenty five.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty five.aspx.designer.cs">
+      <DependentUpon>twenty five.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty four.aspx.cs">
+      <DependentUpon>twenty four.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty four.aspx.designer.cs">
+      <DependentUpon>twenty four.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty one.aspx.cs">
+      <DependentUpon>twenty one.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty one.aspx.designer.cs">
+      <DependentUpon>twenty one.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty two.aspx.cs">
+      <DependentUpon>twenty two.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty two.aspx.designer.cs">
+      <DependentUpon>twenty two.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-eight.aspx.cs">
+      <DependentUpon>Twenty-eight.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-eight.aspx.designer.cs">
+      <DependentUpon>Twenty-eight.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-nine.aspx.cs">
+      <DependentUpon>Twenty-nine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-nine.aspx.designer.cs">
+      <DependentUpon>Twenty-nine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-seven.aspx.cs">
+      <DependentUpon>Twenty-seven.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-seven.aspx.designer.cs">
+      <DependentUpon>Twenty-seven.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-six.aspx.cs">
+      <DependentUpon>Twenty-six.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\Twenty-six.aspx.designer.cs">
+      <DependentUpon>Twenty-six.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty-three.aspx.cs">
+      <DependentUpon>twenty-three.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty-three.aspx.designer.cs">
+      <DependentUpon>twenty-three.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arrandouble\twenty.aspx.cs">
+      <DependentUpon>twenty.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arrandouble\twenty.aspx.designer.cs">
+      <DependentUpon>twenty.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Eighteenth.aspx.cs">
+      <DependentUpon>Eighteenth.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Eighteenth.aspx.designer.cs">
+      <DependentUpon>Eighteenth.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\fifteen.aspx.cs">
+      <DependentUpon>fifteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\fifteen.aspx.designer.cs">
+      <DependentUpon>fifteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\fourteen.aspx.cs">
+      <DependentUpon>fourteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\fourteen.aspx.designer.cs">
+      <DependentUpon>fourteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Nineteenth.aspx.cs">
+      <DependentUpon>Nineteenth.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Nineteenth.aspx.designer.cs">
+      <DependentUpon>Nineteenth.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Seventeen.aspx.cs">
+      <DependentUpon>Seventeen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Seventeen.aspx.designer.cs">
+      <DependentUpon>Seventeen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\thirteen.aspx.cs">
+      <DependentUpon>thirteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\thirteen.aspx.designer.cs">
+      <DependentUpon>thirteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Thirty-onesingle.aspx.cs">
+      <DependentUpon>Thirty-onesingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Thirty-onesingle.aspx.designer.cs">
+      <DependentUpon>Thirty-onesingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Thirtysingle.aspx.cs">
+      <DependentUpon>Thirtysingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Thirtysingle.aspx.designer.cs">
+      <DependentUpon>Thirtysingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Twenty-eight.aspx.cs">
+      <DependentUpon>Twenty-eight.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Twenty-eight.aspx.designer.cs">
+      <DependentUpon>Twenty-eight.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Twenty-fivesingle.aspx.cs">
+      <DependentUpon>Twenty-fivesingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Twenty-fivesingle.aspx.designer.cs">
+      <DependentUpon>Twenty-fivesingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Twenty-nine.aspx.cs">
+      <DependentUpon>Twenty-nine.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Twenty-nine.aspx.designer.cs">
+      <DependentUpon>Twenty-nine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twenty-one.aspx.cs">
+      <DependentUpon>twenty-one.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twenty-one.aspx.designer.cs">
+      <DependentUpon>twenty-one.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Twenty-sevensingle.aspx.cs">
+      <DependentUpon>Twenty-sevensingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Twenty-sevensingle.aspx.designer.cs">
+      <DependentUpon>Twenty-sevensingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Twenty-sixsingle.aspx.cs">
+      <DependentUpon>Twenty-sixsingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Twenty-sixsingle.aspx.designer.cs">
+      <DependentUpon>Twenty-sixsingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twenty-three.aspx.cs">
+      <DependentUpon>twenty-three.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twenty-three.aspx.designer.cs">
+      <DependentUpon>twenty-three.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twenty-two.aspx.cs">
+      <DependentUpon>twenty-two.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twenty-two.aspx.designer.cs">
+      <DependentUpon>twenty-two.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twenty.aspx.cs">
+      <DependentUpon>twenty.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twenty.aspx.designer.cs">
+      <DependentUpon>twenty.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="game.aspx.cs">
+      <DependentUpon>game.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="game.aspx.designer.cs">
+      <DependentUpon>game.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="movie.aspx.cs">
+      <DependentUpon>movie.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="movie.aspx.designer.cs">
+      <DependentUpon>movie.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="沒啥用的\Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="沒啥用的\Announcement.aspx.cs">
+      <DependentUpon>Announcement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\Announcement.aspx.designer.cs">
+      <DependentUpon>Announcement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Arrangement.aspx.cs">
+      <DependentUpon>Arrangement.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Arrangement.aspx.designer.cs">
+      <DependentUpon>Arrangement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\eightsingle.aspx.cs">
+      <DependentUpon>eightsingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\eightsingle.aspx.designer.cs">
+      <DependentUpon>eightsingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\elevensingle.aspx.cs">
+      <DependentUpon>elevensingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\elevensingle.aspx.designer.cs">
+      <DependentUpon>elevensingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\ninesingle.aspx.cs">
+      <DependentUpon>ninesingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\ninesingle.aspx.designer.cs">
+      <DependentUpon>ninesingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\sixteen.aspx.cs">
+      <DependentUpon>sixteen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\sixteen.aspx.designer.cs">
+      <DependentUpon>sixteen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\tensingle.aspx.cs">
+      <DependentUpon>tensingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\tensingle.aspx.designer.cs">
+      <DependentUpon>tensingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twelvesingle.aspx.cs">
+      <DependentUpon>twelvesingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twelvesingle.aspx.designer.cs">
+      <DependentUpon>twelvesingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\twenty foursingle.aspx.cs">
+      <DependentUpon>twenty foursingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\twenty foursingle.aspx.designer.cs">
+      <DependentUpon>twenty foursingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="arransingle\Thirty-twosingle.aspx.cs">
+      <DependentUpon>Thirty-twosingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="arransingle\Thirty-twosingle.aspx.designer.cs">
+      <DependentUpon>Thirty-twosingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="沒啥用的\Live.aspx.cs">
+      <DependentUpon>Live.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\Live.aspx.designer.cs">
+      <DependentUpon>Live.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="沒啥用的\Restration.aspx.cs">
+      <DependentUpon>Restration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\Restration.aspx.designer.cs">
+      <DependentUpon>Restration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Scoring.aspx.cs">
+      <DependentUpon>Scoring.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Scoring.aspx.designer.cs">
+      <DependentUpon>Scoring.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="沒啥用的\Secure.aspx.cs">
+      <DependentUpon>Secure.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\Secure.aspx.designer.cs">
+      <DependentUpon>Secure.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sign in.aspx.cs">
+      <DependentUpon>Sign in.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sign in.aspx.designer.cs">
+      <DependentUpon>Sign in.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Sign up.aspx.cs">
+      <DependentUpon>Sign up.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Sign up.aspx.designer.cs">
+      <DependentUpon>Sign up.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Team Information.aspx.cs">
+      <DependentUpon>Team Information.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Team Information.aspx.designer.cs">
+      <DependentUpon>Team Information.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="沒啥用的\test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="沒啥用的\test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bootstrap\css\bootstrap-theme.css.map" />
+    <Content Include="bootstrap\css\bootstrap-theme.min.css.map" />
+    <Content Include="bootstrap\css\bootstrap.css.map" />
+    <Content Include="bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="vd\1.webm" />
+    <Content Include="vd\2.webm" />
+    <Content Include="vd\3.webm" />
+    <Content Include="vd\4.webm" />
+    <Content Include="vd\5.webm" />
+    <Content Include="vd\6.webm" />
+    <Content Include="vd\7.webm" />
+    <Content Include="vd\8.webm" />
+    <Content Include="vd\9.webm" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="web\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="web\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="web\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="web\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="web\font-awesome\less\bordered-pulled.less" />
+    <Content Include="web\font-awesome\less\core.less" />
+    <Content Include="web\font-awesome\less\fixed-width.less" />
+    <Content Include="web\font-awesome\less\font-awesome.less" />
+    <Content Include="web\font-awesome\less\icons.less" />
+    <Content Include="web\font-awesome\less\larger.less" />
+    <Content Include="web\font-awesome\less\list.less" />
+    <Content Include="web\font-awesome\less\mixins.less" />
+    <Content Include="web\font-awesome\less\path.less" />
+    <Content Include="web\font-awesome\less\rotated-flipped.less" />
+    <Content Include="web\font-awesome\less\spinning.less" />
+    <Content Include="web\font-awesome\less\stacked.less" />
+    <Content Include="web\font-awesome\less\variables.less" />
+    <Content Include="web\font-awesome\scss\font-awesome.scss" />
+    <Content Include="web\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="web\font-awesome\scss\_core.scss" />
+    <Content Include="web\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="web\font-awesome\scss\_icons.scss" />
+    <Content Include="web\font-awesome\scss\_larger.scss" />
+    <Content Include="web\font-awesome\scss\_list.scss" />
+    <Content Include="web\font-awesome\scss\_mixins.scss" />
+    <Content Include="web\font-awesome\scss\_path.scss" />
+    <Content Include="web\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="web\font-awesome\scss\_spinning.scss" />
+    <Content Include="web\font-awesome\scss\_stacked.scss" />
+    <Content Include="web\font-awesome\scss\_variables.scss" />
+    <Content Include="web\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="web\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="web\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="web\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="web\LICENSE" />
+    <Content Include="web\README.md" />
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:58657/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
